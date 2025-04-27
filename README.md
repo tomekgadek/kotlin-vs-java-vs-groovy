@@ -1,2 +1,14 @@
 # kotlin-vs-java-vs-groovy
-kotlin vs java vs groovy
+_Kolekcja krótkich programów zaimplementowanych w języku Kotlin | Java | Groovy._
+
+### Kotlin
+
+01. [Zmienne w Kotlin](./kotlin/KotlinExample01.kt).
+
+### Java
+
+01. [Zmienne w Java](./java/JavaExample01.java).
+
+### Groovy
+
+01. [Zmienne w Groovy](./groovy/GroovyExample01.groovy).
