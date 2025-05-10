@@ -14,7 +14,8 @@ _Kolekcja krótkich programów zaimplementowanych w języku Kotlin | Java | Groo
 09. [Kompozycja](./kotlin/KotlinExample09.kt),
 10. [Polimorfizm](./kotlin/KotlinExample10.kt),
 11. [Interfejs](./kotlin/KotlinExample11.kt),
-12. [Typ wyliczeniowy](./kotlin/KotlinExample12.kt).
+12. [Typ wyliczeniowy](./kotlin/KotlinExample12.kt),
+13. [Wyjątki](./kotlin/KotlinExample13.kt).
 
 ### Java
 
@@ -29,7 +30,8 @@ _Kolekcja krótkich programów zaimplementowanych w języku Kotlin | Java | Groo
 09. [Kompozycja](./java/JavaExample09.java),
 10. [Polimorfizm](./java/JavaExample10.java),
 11. [Interfejs](./java/JavaExample11.java),
-12. [Typ wyliczeniowy](./java/JavaExample12.java).
+12. [Typ wyliczeniowy](./java/JavaExample12.java),
+13. [Wyjątki](./java/JavaExample13.java).
 
 ### Groovy
 
@@ -44,4 +46,5 @@ _Kolekcja krótkich programów zaimplementowanych w języku Kotlin | Java | Groo
 09. [Kompozycja](./groovy/GroovyExample09.groovy),
 10. [Polimorfizm](./groovy/GroovyExample10.groovy),
 11. [Interfejs](./groovy/GroovyExample11.groovy),
-12. [Typ wyliczeniowy](./groovy/GroovyExample12.groovy).
+12. [Typ wyliczeniowy](./groovy/GroovyExample12.groovy),
+13. [Wyjątki](./groovy/GroovyExample13.groovy).
