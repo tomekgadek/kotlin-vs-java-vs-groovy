@@ -17,7 +17,8 @@ _Kolekcja krótkich programów zaimplementowanych w języku Kotlin | Java | Groo
 12. [Typ wyliczeniowy](./kotlin/KotlinExample12.kt),
 13. [Wyjątki](./kotlin/KotlinExample13.kt),
 14. [Listy](./kotlin/KotlinExample14.kt),
-15. [Mapy](./kotlin/KotlinExample15.kt).
+15. [Mapy](./kotlin/KotlinExample15.kt),
+16. [Robot](./kotlin/Robot.kt).
 
 ### Java
 
@@ -35,7 +36,8 @@ _Kolekcja krótkich programów zaimplementowanych w języku Kotlin | Java | Groo
 12. [Typ wyliczeniowy](./java/JavaExample12.java),
 13. [Wyjątki](./java/JavaExample13.java),
 14. [Listy](./java/JavaExample14.java),
-15. [Mapy](./java/JavaExample15.java).
+15. [Mapy](./java/JavaExample15.java),
+16. [Robot](./java/Robot.java).
 
 ### Groovy
 
@@ -53,4 +55,5 @@ _Kolekcja krótkich programów zaimplementowanych w języku Kotlin | Java | Groo
 12. [Typ wyliczeniowy](./groovy/GroovyExample12.groovy),
 13. [Wyjątki](./groovy/GroovyExample13.groovy),
 14. [Listy](./groovy/GroovyExample14.groovy),
-15. [Mapy](./groovy/GroovyExample15.groovy).
+15. [Mapy](./groovy/GroovyExample15.groovy),
+16. [Robot](./groovy/Robot.groovy).
